@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int x = 10;
+    if (x == 20) {
+        cout << "x is equal to 20" << endl;
+    } else if (x > 20) {
+        cout << "x is greater than 20" << endl;
+    } else {
+        cout << "x is less than 20" << endl;
+    }
+    return 0;
+}
