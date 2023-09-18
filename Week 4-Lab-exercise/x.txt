@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main{
+int a, b,bc;
+a=b>bc
+bac>=abc
+\\hello
+printf("my name is Arun");
+}
